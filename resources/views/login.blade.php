@@ -10,4 +10,11 @@
 <body>
   @include('partials.navbar') 
 </body>
+<h1>
+
+
+
+
+  
+</h1>
 </html>
